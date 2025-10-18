@@ -1,4 +1,4 @@
-<h1>Giaxidis Evangelos - Final IDKI Project 1</h1>
+<h1>Giaxidis Evangelos - Final IDKI Project </h1>
 
 <h2>Information about the game </h2>
 
